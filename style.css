@@ -1,0 +1,51 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Style the header */
+header {
+  background-color: #white;
+  padding: 2px;
+  text-align: left;
+  font-size: 10px;
+  color: white;
+}
+.form input {
+  font-family: "Roboto", sans-serif;
+  outline: 9;
+  background:  #F4F6F6;
+  width: 98%;
+  border: 0;
+  margin: 0 0 0px;
+  padding: 10px;
+  box-sizing: border-box;
+  border: 1px solid black;
+  font-size: 15px;
+}
+.login-page {
+  width: 340px;
+  padding: 2% 0 0;
+  margin: auto;
+  text-align: center;
+}button {
+  background-color: #0581D5;
+  border: none;
+  color: white;
+  padding: 8px 15px;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  margin: 1px 1px;
+  cursor: pointer;
+  border-radius: 15px;
+  font-size: 15px;
+}
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #030303;
+   color: white;
+   text-align: center;
+   font-size: 14px;
